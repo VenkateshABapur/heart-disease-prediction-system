@@ -34,7 +34,7 @@ The **Smart Heart Disease Prediction System** is an AI-powered application that 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sarthak-Nagave/Smart-Heart-Disease-Prediction-System.git
+git clone https://github.com/VenkateshAbapur/Smart-Heart-Disease-Prediction-System.git
 ````
 
 2. Navigate to the project directory:
