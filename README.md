@@ -130,15 +130,3 @@ Smart-Heart-Disease-Prediction-System/
 This project is open-source and available under the MIT License.
 
 ---
-
-## 📞 Contact
-
-**Sarthak Nagave**
-
-* GitHub: 1.[Sarthak-Nagave](https://github.com/Sarthak-Nagave)
-          2.[samadhan-Kanade](https://github.com/Samadhan-Kanade)
-* Email:  `sarthaknagave7@gmail.com'
-          'kanadesamadhan15@gmail.com'
-
-```
-
